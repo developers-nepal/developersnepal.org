@@ -3,16 +3,4 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Developers Nepal is an online space for developers, technologists and enthusiasts to connect and spread the love of technology in Nepal. This group is for, and by, the people who love sharing knowledge and working together to create a better online environment. If you think you love technology and are even remotely connected to Nepal, we welcome you to join us!
